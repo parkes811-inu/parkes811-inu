@@ -2,8 +2,8 @@
 
 ![은서's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkes811-inu&show_icons=true&theme=radical)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=본인아이디&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=본인아이디&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkes811&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=parkes811&show_icons=true">
 
 🌱 I’m currently learning ...
 
