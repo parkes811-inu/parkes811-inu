@@ -1,8 +1,3 @@
-### Hi there 👋
-
-![은서's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkes811-inu&show_icons=true&theme=radical)
-
-🌱 I’m currently learning ...
 
 ### 🤞 Nice way to meet me
 <p>
@@ -38,5 +33,7 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/>
 </p>
+
+![은서's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkes811-inu&show_icons=true&theme=radical)
 
 
