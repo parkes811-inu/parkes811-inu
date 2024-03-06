@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Eunseo's GitHub stats](https://github-readme-stats.vercel.app/api?parkes811-inu=anuraghazra&show_icons=true&theme=radical)
+
 <!--
 **parkes811-inu/parkes811-inu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
