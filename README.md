@@ -1,13 +1,12 @@
-
-<div>
-<img src="[https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Yermi%20Github!&fontSize=50](https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Eunseo's%20%20Github&section=header&textBg=false&fontColor=00AAFF&fontSize=50&animation=twinkling)" />	
-</div> 
+<div align=center>
+	<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Eunseo's%20%20Github&section=header&textBg=false&fontColor=00AAFF&fontSize=50&animation=twinkling" />	
+</div>
 
 <div align="center">
 	 <h2>📚 Tech Stack 📚</h2>
 	 <strong><p>✨ Platforms & Languages ✨</p></strong>
 </div>
-<div>
+<div  align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
@@ -30,7 +29,7 @@
 <div align="center">
 	<strong><p>🛠 Tools 🛠</p></strong>
 </div>
-<div>
+<div align="center">
 	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 	<img src="https://img.shields.io/badge/Visual%20Studio-4D37BB?style=flat&logo=VisualStudio&logoColor=white" />
