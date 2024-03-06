@@ -3,8 +3,8 @@
 </div> 
 
 <div>
-	 <h3>📚 Tech Stack 📚</h3>
-	 <strong><p>**✨ Platforms & Languages ✨**</p></strong>
+	 <h2>📚 Tech Stack 📚</h2>
+	 <strong><p>✨ Platforms & Languages ✨</p></strong>
 </div>
 <div>
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
@@ -23,10 +23,10 @@
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
 </div>
 <br>
-<div align=center>
+<div>
 	<strong><p>🛠 Tools 🛠</p></strong>
 </div>
-<div align=center>
+<div>
 	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 	<img src="https://img.shields.io/badge/Visual%20Studio-4D37BB?style=flat&logo=VisualStudio&logoColor=white" />
@@ -46,7 +46,7 @@
 
 ### <p>🏆 Baekjoon solved rank 🏆</p>
 	
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dmstj1049)](https://solved.ac/kycasdzxc)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dmstj1049)](https://solved.ac/dmstj1049)
 </div>
 <br>
 
