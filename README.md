@@ -1,12 +1,13 @@
 ### Hi there 👋
 
 ![은서's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkes811-inu&show_icons=true&theme=radical)
-<!--
-**parkes811-inu/parkes811-inu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=본인아이디&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=본인아이디&show_icons=true">
 
 🌱 I’m currently learning ...
 
-🤞 Nice way to meet me
+### 🤞 Nice way to meet me
 <p>
   <a href="https://blog.cowkite.com/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/cowkite/" target="_blank"><img src="https://img.shields.io/badge/SoyeonKim-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
@@ -42,13 +43,3 @@
 </p>
 
 
-
-- 🔭 I’m currently working on ...
- 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
