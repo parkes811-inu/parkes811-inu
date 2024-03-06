@@ -3,7 +3,7 @@
 <img src="[https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Yermi%20Github!&fontSize=50](https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Eunseo's%20%20Github&section=header&textBg=false&fontColor=00AAFF&fontSize=50&animation=twinkling)" />	
 </div> 
 
-<div>
+<div align="center">
 	 <h2>📚 Tech Stack 📚</h2>
 	 <strong><p>✨ Platforms & Languages ✨</p></strong>
 </div>
@@ -27,7 +27,7 @@
 
 </div>
 <br>
-<div>
+<div align="center">
 	<strong><p>🛠 Tools 🛠</p></strong>
 </div>
 <div>
