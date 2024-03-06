@@ -1,7 +1,6 @@
-! [https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Eunseo's%20%20Github&section=header&textBg=false&fontColor=00AAFF&fontSize=50&animation=twinkling]
 
 <div>
-	<img src="[https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Yermi%20Github!&fontSize=50](https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Eunseo's%20%20Github&section=header&textBg=false&fontColor=00AAFF&fontSize=50&animation=twinkling)" />	
+<img src="[https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Yermi%20Github!&fontSize=50](https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Eunseo's%20%20Github&section=header&textBg=false&fontColor=00AAFF&fontSize=50&animation=twinkling)" />	
 </div> 
 
 <div>
@@ -24,8 +23,7 @@
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
 
- 	### <p>🏆 Baekjoon solved rank 🏆</p>
-	[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dmstj1049)](https://solved.ac/dmstj1049)
+
 
 </div>
 <br>
@@ -49,7 +47,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=parkes811-inu&show_icons=true">
 </p>
 <br>
-
+ 	### <p>🏆 Baekjoon solved rank 🏆</p>
+	[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dmstj1049)](https://solved.ac/dmstj1049)
 
 </div>
 <br>
