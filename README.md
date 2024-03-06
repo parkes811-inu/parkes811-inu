@@ -41,13 +41,16 @@
 </div>
 <br>
 <br>
+<div align="center">
 <p>	
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkes811-inu&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=parkes811-inu&show_icons=true">
 </p>
+</div>
 <br>
- 	### <p>🏆 Baekjoon solved rank 🏆</p>
-	[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dmstj1049)](https://solved.ac/dmstj1049)
+
+### <p>🏆 Baekjoon solved rank 🏆</p>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dmstj1049)](https://solved.ac/dmstj1049)
 
 </div>
 <br>
