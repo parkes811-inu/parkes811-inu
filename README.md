@@ -39,10 +39,11 @@
 
 <div align=center>
 	<img src="[https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Yermi%20Github!&fontSize=50](https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Eunseo's%20%20Github&section=header&textBg=false&fontColor=00AAFF&fontSize=50&animation=twinkling)" />	
-</div>
+</div> 
+
 <div align=center>
-	### <h3>📚 Tech Stack 📚</h3>
-	### <p>✨ Platforms & Languages ✨</p>
+	 <h3>📚 Tech Stack 📚</h3>
+	 **<p>✨ Platforms & Languages ✨</p>**
 </div>
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
