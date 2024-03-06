@@ -26,9 +26,9 @@
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
 
  	### <p>🏆 Baekjoon solved rank 🏆</p>
-	
+	</p>
 	[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dmstj1049)](https://solved.ac/dmstj1049)
-</p>
+
 </div>
 <br>
 <div>
