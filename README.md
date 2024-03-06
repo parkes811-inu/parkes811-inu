@@ -2,8 +2,8 @@
 ### 🤞 Nice way to meet me
 <p> 
   <a href="https://parkes811.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
-  <a href="https://www.instagram.com/eeeeee.s/" target="_blank"><img src="https://img.shields.io/badge/SoyeonKim-0A66C2?style=flat-square&logo=Instagram&logoColor=white"/></a>
-  <a href="mailto:parkes811@naver.com" target="_blank"><img src="https://img.shields.io/badge/iscowkite@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/eeeeee.s/" target="_blank"><img src="https://img.shields.io/badge/eeeeee.s-0A66C2?style=flat-square&logo=Instagram&logoColor=white"/></a>
+  <a href="mailto:parkes811@naver.com" target="_blank"><img src="https://img.shields.io/badge/parkes811@naver.com-EA4335?style=flat-square&logo=Naver&logoColor=white"/></a>
 </p>
 
 <p>
