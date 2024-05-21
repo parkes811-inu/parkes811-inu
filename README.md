@@ -50,15 +50,28 @@
 </div>
 <br>
 
-### <p>🏆 Baekjoon solved rank 🏆</p>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dmstj1049)](https://solved.ac/dmstj1049)
 
 </div>
 <br>
 
-![](./profile-3d-contrib/profile-season-animate.svg)
+<div align="center">
+    <div style="display: flex; justify-content: space-between; align-items: center; width: 40%; margin: 0 auto;">
+        <p style="text-align: left; margin: 0; flex: 1;">🏆 Baekjoon solved rank 🏆</p>
+        <p style="text-align: right; margin: 0; flex: 1;">🏆 코딩테스트 문제풀이를 보려면 사진을 클릭하세요. 🏆</p>
+    </div>
+    <br>
+    <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+        <a href="https://solved.ac/dmstj1049">
+            <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dmstj1049" alt="Solved.ac Profile" />
+        </a>
+        <a href="https://bit.ly/4bo5sVS">
+            <img src="/img/codingTest.jpg" alt="codingTest" />
+        </a>
+    </div>
+</div>
 
 
-### <p>🏆 문제들을 보려면 사진을 클릭하세요. 🏆</p>
-[![codingTest](/img/codingTest.jpg)](https://bit.ly/4bo5sVS)
+
+
+
 
