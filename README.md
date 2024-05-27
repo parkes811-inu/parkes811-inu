@@ -64,7 +64,7 @@
         <a href="https://solved.ac/dmstj1049">
             <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dmstj1049" alt="Solved.ac Profile" />
         </a>
-        <a href="https://bit.ly/4bo5sVS">
+        <a href="https://gleaming-heart-319.notion.site/1-1-589b08f25c60469a9d16ee1a211fe6a6">
             <img src="/img/codingTest.jpg" alt="codingTest" />
         </a>
     </div>
